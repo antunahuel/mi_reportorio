@@ -1,0 +1,7 @@
+1.- instalar npm necesarios para proyecto
+2.- crear directorio para modularizar proyecto
+3.- carpeta config crear archivo de configuracion squelize configuracion exportar
+4.- importar squelize desde archivo de config y establecer conexion a database desde directorio raiz index.js entrepoint proyecto
+5.- crear modelo de tabla de DB en archivo Canciones.model.js
+6.- exportando modelo desde entrepoint index.js de carpeta models
+8.- Crear controlador de Canciones en carpeta controlls
